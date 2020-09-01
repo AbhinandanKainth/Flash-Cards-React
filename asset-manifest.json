@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Flash-Cards-React/static/css/main.090afa74.chunk.css",
+    "main.js": "/Flash-Cards-React/static/js/main.9d4784bf.chunk.js",
+    "main.js.map": "/Flash-Cards-React/static/js/main.9d4784bf.chunk.js.map",
+    "runtime-main.js": "/Flash-Cards-React/static/js/runtime-main.0b5e53ab.js",
+    "runtime-main.js.map": "/Flash-Cards-React/static/js/runtime-main.0b5e53ab.js.map",
+    "static/js/2.96b0bbe0.chunk.js": "/Flash-Cards-React/static/js/2.96b0bbe0.chunk.js",
+    "static/js/2.96b0bbe0.chunk.js.map": "/Flash-Cards-React/static/js/2.96b0bbe0.chunk.js.map",
+    "index.html": "/Flash-Cards-React/index.html",
+    "precache-manifest.7c6096fea1106511cd76a09ae5c58bc9.js": "/Flash-Cards-React/precache-manifest.7c6096fea1106511cd76a09ae5c58bc9.js",
+    "service-worker.js": "/Flash-Cards-React/service-worker.js",
+    "static/css/main.090afa74.chunk.css.map": "/Flash-Cards-React/static/css/main.090afa74.chunk.css.map",
+    "static/js/2.96b0bbe0.chunk.js.LICENSE.txt": "/Flash-Cards-React/static/js/2.96b0bbe0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Flash-Cards-React/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b5e53ab.js",
+    "static/js/2.96b0bbe0.chunk.js",
+    "static/css/main.090afa74.chunk.css",
+    "static/js/main.9d4784bf.chunk.js"
+  ]
+}
